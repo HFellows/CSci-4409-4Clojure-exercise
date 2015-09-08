@@ -47,18 +47,6 @@
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-;;; Problem #10: Intro to Maps
- 
-; What I pasted in the box:
-
-20
-
-; because all the given expressions returned 20, for example:
-
-(= 20 (:b {:a 10, :b 20, :c 30}))
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
 ;;; Problem #16: Hello World
  
 ; What I pasted in the box:
